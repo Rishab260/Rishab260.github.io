@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c29396d4515ab7bc284892fa6d32c8e",
+    "revision": "177e6385729bc798af1cab81af37a27c",
     "url": "./index.html"
   },
   {
-    "revision": "505ffc44c6e0e8975d57",
+    "revision": "692290da7fbb4322272d",
     "url": "./static/css/main.b17282c7.chunk.css"
   },
   {
-    "revision": "9d3e2b9f0303e15ae055",
-    "url": "./static/js/2.5bfbb589.chunk.js"
+    "revision": "4c0551beb398faade112",
+    "url": "./static/js/2.b7b04ca2.chunk.js"
   },
   {
-    "revision": "505ffc44c6e0e8975d57",
-    "url": "./static/js/main.43f719a9.chunk.js"
+    "revision": "692290da7fbb4322272d",
+    "url": "./static/js/main.b185bec6.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "9f6532114e4ebf9d37fca14da8ea4895",
+    "url": "./static/media/IIT_Madras_Logo.9f653211.svg"
+  },
+  {
+    "revision": "7f8e42f4d20b2be16c7a62652b9ed254",
+    "url": "./static/media/Maharshi_Dayanand_University_logo.7f8e42f4.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -192,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
   {
+    "revision": "260e2321098d469ce08f35761840bb1f",
+    "url": "./static/media/ielts.260e2321.png"
+  },
+  {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
     "url": "./static/media/iiitk_logo.571a8584.png"
   },
@@ -224,6 +236,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/nptel_logo.95a12a2b.png"
   },
   {
+    "revision": "e31a7831042bfaa698d80ac98f545cb4",
+    "url": "./static/media/passport-size.e31a7831.jpeg"
+  },
+  {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "./static/media/portfolio.414dfbd9.gif"
   },
@@ -238,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "./static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "4cde644b4d4d54759c4293f674218ead",
+    "url": "./static/media/repo.4cde644b.webp"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
